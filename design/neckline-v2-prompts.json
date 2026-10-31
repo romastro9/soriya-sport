@@ -1,0 +1,152 @@
+{
+  "collection": "SORIYA SPORT original unbranded neckline catalog v2",
+  "generation": "Built-in Image Generation; one independent generation per image",
+  "common_prompt": "Original unbranded sports jersey; straight-on front camera; centered neckline; white studio background; invisible mannequin; realistic knit and stitching; no text, logos, labels, sponsors, hangers or watermark.",
+  "styles": [
+    {
+      "id": "01",
+      "construction": "Classic fold-over polo collar with deep open V, two thin contrasting stripes around collar.",
+      "palette": "midnight navy body, cream collar, teal fine trim, tonal diagonal micro-lines"
+    },
+    {
+      "id": "02",
+      "construction": "Fold-over polo collar above double-layer V insert.",
+      "palette": "teal body, navy collar, cream fine trim, tonal vertical broken pinstripes"
+    },
+    {
+      "id": "03",
+      "construction": "Ribbed V neck with narrow double piping, raglan shoulders.",
+      "palette": "cream body, navy rib with teal piping, plain raglan shoulders"
+    },
+    {
+      "id": "04",
+      "construction": "Wide spread fold-over collar with shallow curved U opening, no buttons.",
+      "palette": "coral body, navy collar with cream edge, tonal tiny diagonal dashes"
+    },
+    {
+      "id": "05",
+      "construction": "Clean round crew neckline with slim rib binding and small upright side tabs.",
+      "palette": "navy body, teal rib binding, subtle tonal woven diamond texture"
+    },
+    {
+      "id": "06",
+      "construction": "Broad pointed fold-over polo collar with deep sharp V opening.",
+      "palette": "cream body, teal collar with navy inner edge, fine tonal horizontal lines"
+    },
+    {
+      "id": "07",
+      "construction": "Squared U neckline with wide white binding and short squared front edge.",
+      "palette": "teal body, cream neckline binding, tonal abstract offset grid"
+    },
+    {
+      "id": "08",
+      "construction": "Soft rounded V neckline with upright short band collar.",
+      "palette": "navy body, coral collar edge, tonal fine angular linework"
+    },
+    {
+      "id": "09",
+      "construction": "Small ribbed V-neck with inset triangular modesty insert at point.",
+      "palette": "cream body, navy rib and teal small triangular inset, plain shoulders"
+    },
+    {
+      "id": "10",
+      "construction": "Raised mandarin collar tapering to a short deep V front, contrasting inner V insert.",
+      "palette": "teal body, navy stand collar and cream V insert, tonal micro chevrons"
+    },
+    {
+      "id": "11",
+      "construction": "Classic ribbed V-neck with two concentric narrow contrasting trim lines.",
+      "palette": "navy body, cream and muted coral double rib trim, subtle tonal dash texture"
+    },
+    {
+      "id": "12",
+      "construction": "Geometric stepped V neckline with broad layered binding.",
+      "palette": "cream body, teal broad layered rib and navy thin edge, tonal vertical linework"
+    },
+    {
+      "id": "13",
+      "construction": "Pointed fold-over polo collar above crossed double-V striped inset.",
+      "palette": "navy body, teal polo collar, cream double V stripes, plain chest"
+    },
+    {
+      "id": "14",
+      "construction": "Overlapping crossover V-neck with three parallel rib trim layers.",
+      "palette": "teal body, cream and navy crossover trim, tiny tonal offset rectangles"
+    },
+    {
+      "id": "15",
+      "construction": "Spread fold-over polo collar with small shallow rounded bib below opening, no buttons.",
+      "palette": "cream body, navy polo collar and teal rounded bib, original tonal waves"
+    },
+    {
+      "id": "16",
+      "construction": "Wide open shallow round neck with narrow self-fabric binding.",
+      "palette": "coral body, cream round trim, navy shoulder panels and subtle tonal lines"
+    },
+    {
+      "id": "17",
+      "construction": "Simple medium-depth V-neck with wide solid contrasting rib.",
+      "palette": "navy body, muted coral wide V rib, cream shoulder fine piping"
+    },
+    {
+      "id": "18",
+      "construction": "Round-to-point hybrid neckline: round upper edge ending in gentle centered V.",
+      "palette": "teal body, cream round-to-point neck binding, plain smooth knit chest"
+    },
+    {
+      "id": "19",
+      "construction": "Classic button polo collar with short two-button placket, no branded buttons.",
+      "palette": "cream body, navy polo collar and two cream plain buttons, teal piping"
+    },
+    {
+      "id": "20",
+      "construction": "Short stand-up band collar ending in overlapping angular V notch.",
+      "palette": "navy body, teal stand-up band with cream fine edge, tonal geometric weave"
+    },
+    {
+      "id": "21",
+      "construction": "Short stand collar with narrow contrast edge and curved scoop opening.",
+      "palette": "teal body, cream stand collar and navy edge, tonal micro-line texture"
+    },
+    {
+      "id": "22",
+      "construction": "Asymmetric overlap crew neck with a diagonal crossover seam at front center.",
+      "palette": "cream body, navy asymmetric crossover rib with teal edge, plain chest"
+    },
+    {
+      "id": "23",
+      "construction": "Round neck with split two-color contrasting rib collar.",
+      "palette": "navy body, two-tone teal and cream round rib collar, tonal abstract grid"
+    },
+    {
+      "id": "24",
+      "construction": "Wide ribbed round crew collar with narrow contrasting inner rim.",
+      "palette": "cream body, teal wide rib with coral thin inner rim, plain smooth chest"
+    },
+    {
+      "id": "25",
+      "construction": "Traditional fold-down polo collar, thin contrasting edge, three-button placket.",
+      "palette": "navy body, cream polo collar with teal thin edge, plain unbranded navy buttons"
+    },
+    {
+      "id": "26",
+      "construction": "Fold-down polo collar above layered V inset, plain solid collar with fine edge trim.",
+      "palette": "teal body, cream plain polo collar and navy V inset, tonal fine dash weave"
+    },
+    {
+      "id": "27",
+      "construction": "Fold-down polo collar with short open V front and horizontal inset across base.",
+      "palette": "coral body, navy plain polo collar with cream fine trim, tonal abstract lines"
+    },
+    {
+      "id": "28",
+      "construction": "Thick ribbed crew neckline with narrow pale contrast inner rim.",
+      "palette": "navy body, teal thick rib with cream narrow inner edge, plain chest"
+    },
+    {
+      "id": "29",
+      "construction": "Striped ribbed V-neck with visibly overlapping rib ends.",
+      "palette": "cream body, navy and teal finely striped V rib, tiny tonal geometric weave"
+    }
+  ]
+}

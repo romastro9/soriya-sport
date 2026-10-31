@@ -36,7 +36,7 @@ $('#heroImage').addEventListener('error',()=>{$('#syncStatus').textContent='រ�
 
 // Keep the displayed style number identical in the gallery and order draft.
 const necklines=Array.from({length:29},(_,i)=>String(i+1).padStart(2,'0'));
-function necklineImage(id){return `assets/neckline-${id}.${Number(id)>20?'webp':'png'}`}
+function necklineImage(id){return `assets/soriya-neckline-v2-${id}.webp`}
 $('#necklineSelect').insertAdjacentHTML('beforeend',necklines.map(id=>`<option value="${id}">ម៉ូត ${id}</option>`).join(''));
 $('#necklineGrid').innerHTML=necklines.map(id=>`<article class="neckline-card" id="neckline-${id}"><button class="neckline-preview" data-neckline-view="${id}" aria-label="ពង្រីករូបម៉ូតកអាវ ${id}"><img src="${necklineImage(id)}" alt="ម៉ូតកអាវ ${id}" width="260" height="260" loading="lazy"><span class="neckline-zoom" aria-hidden="true">↗</span></button><div class="neckline-info"><h3>ម៉ូត <span>${id}</span></h3><button data-neckline-select="${id}" aria-pressed="false">ជ្រើសរើស</button></div></article>`).join('');
 function selectNeckline(id){if(!necklines.includes(id))return;$('#necklineSelect').value=id;updateTotal();updateNecklineSelection();if($('#modal').open)$('#modal').close();$('#estimate').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});$('#necklineSelect').focus({preventScroll:true})}

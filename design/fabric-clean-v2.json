@@ -1,0 +1,176 @@
+{
+  "method": "Built-in Image Generation edit, one image per source fabric",
+  "prompt": "Neutral white studio illumination; remove top-left overlaid lettering; preserve original textile motif, scale, stitch direction, pores, folds and shadows. No logos, labels or watermark.",
+  "images": [
+    {
+      "name": "THUN LẠNH",
+      "image": "assets/more-8.webp",
+      "id": 1
+    },
+    {
+      "name": "MB50",
+      "image": "assets/new-1.webp",
+      "id": 2
+    },
+    {
+      "name": "MÈ 100",
+      "image": "assets/new-8.webp",
+      "id": 3
+    },
+    {
+      "name": "ADIDAS VUÔNG",
+      "image": "assets/new-11.webp",
+      "id": 4
+    },
+    {
+      "name": "PUMA",
+      "image": "assets/new-6.webp",
+      "id": 5
+    },
+    {
+      "name": "ADIAS MỊN",
+      "image": "assets/more-4.webp",
+      "id": 6
+    },
+    {
+      "name": "NIKE",
+      "image": "assets/new-2.webp",
+      "id": 7
+    },
+    {
+      "name": "BK1",
+      "image": "assets/more-18.webp",
+      "id": 8
+    },
+    {
+      "name": "MS5",
+      "image": "assets/more-1.webp",
+      "id": 9
+    },
+    {
+      "name": "MK12",
+      "image": "assets/more-2.webp",
+      "id": 10
+    },
+    {
+      "name": "VNS 106",
+      "image": "assets/update4-3.webp",
+      "id": 11
+    },
+    {
+      "name": "L9 HQ",
+      "image": "assets/more-12.webp",
+      "id": 12
+    },
+    {
+      "name": "LINING KIM CƯƠNG",
+      "image": "assets/more-10.webp",
+      "id": 13
+    },
+    {
+      "name": "THUN LẠNH 4C",
+      "image": "assets/more-11.webp",
+      "id": 14
+    },
+    {
+      "name": "Vải 144",
+      "image": "assets/new-4.webp",
+      "id": 15
+    },
+    {
+      "name": "214",
+      "image": "assets/update4-6.webp",
+      "id": 16
+    },
+    {
+      "name": "334",
+      "image": "assets/update4-4.webp",
+      "id": 17
+    },
+    {
+      "name": "340",
+      "image": "assets/update4-2.webp",
+      "id": 18
+    },
+    {
+      "name": "ADIDAS PL25-26",
+      "image": "assets/more-19.webp",
+      "id": 19
+    },
+    {
+      "name": "ADIDAS PL305",
+      "image": "assets/more-0.webp",
+      "id": 20
+    },
+    {
+      "name": "POLO 4C",
+      "image": "assets/new-3.webp",
+      "id": 21
+    },
+    {
+      "name": "VNS Y3180",
+      "image": "assets/new-10.webp",
+      "id": 22
+    },
+    {
+      "name": "MÈ BÓNG",
+      "image": "assets/more-5.webp",
+      "id": 23
+    },
+    {
+      "name": "J7134",
+      "image": "assets/more-13.webp",
+      "id": 24
+    },
+    {
+      "name": "J7137",
+      "image": "assets/more-9.webp",
+      "id": 25
+    },
+    {
+      "name": "J101",
+      "image": "assets/new-7.webp",
+      "id": 26
+    },
+    {
+      "name": "J7131",
+      "image": "assets/more-14.webp",
+      "id": 27
+    },
+    {
+      "name": "J102",
+      "image": "assets/more-15.webp",
+      "id": 28
+    },
+    {
+      "name": "KT103",
+      "image": "assets/new-14.webp",
+      "id": 29
+    },
+    {
+      "name": "KT107",
+      "image": "assets/new-17.webp",
+      "id": 30
+    },
+    {
+      "name": "KT111",
+      "image": "assets/new-13.webp",
+      "id": 31
+    },
+    {
+      "name": "KT122",
+      "image": "assets/new-16.webp",
+      "id": 32
+    },
+    {
+      "name": "KT205",
+      "image": "assets/new-18.webp",
+      "id": 33
+    },
+    {
+      "name": "KT1949",
+      "image": "assets/new-0.webp",
+      "id": 34
+    }
+  ]
+}
